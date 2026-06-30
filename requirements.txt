@@ -2,7 +2,6 @@ fastapi
 uvicorn
 pydantic
 google-genai
-sentence-transformers
 numpy
 beautifulsoup4
 requests
