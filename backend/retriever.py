@@ -29,7 +29,8 @@ class SemanticRetriever:
             )
             return np.array(response.embeddings[0].values)
         except Exception as e:
-            print(f"Embedding error: {e}")
+            # The API key may not have access to the embedding models depending on region.
+            # We silently catch this and return a zero-vector so the fallback logic in chat.py takes over.
             return np.zeros(768)
 
     def _build_index(self):
