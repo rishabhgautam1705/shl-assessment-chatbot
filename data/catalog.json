@@ -1,0 +1,101 @@
+[
+  {
+    "name": "SHL Motivational Questionnaire",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience. Understand what motivates your workforce and how to activate that knowledge. SHL\u2019s Motivational Questionnaire provides specific insights that facilitate the best talent decisions.",
+    "skills_tested": "Development",
+    "duration": "Typically 15-30 minutes",
+    "level": "managers build leadership skills that boost team engagement and drive business results",
+    "test_type": "Personality Assessment",
+    "url": "https://www.shl.com/products/assessments/personality-assessment/shl-motivation-questionnaire-mq/"
+  },
+  {
+    "name": "Assess Agents in a Real Contact Center Environment",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience. SHL reduced the hiring of agents with a First Call Rate (FCR) below an acceptable threshold for one customer by 65%.",
+    "skills_tested": "Development",
+    "duration": "Typically 15-30 minutes",
+    "level": "All Levels",
+    "test_type": "Skills & Simulations",
+    "url": "https://www.shl.com/products/assessments/skills-and-simulations/call-center-simulations/"
+  },
+  {
+    "name": "AI-powered Language Proficiency Tests",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience. Accelerate your hiring process with SHL's AI-driven suite of communication and language tests, streamlining language assessment to swiftly identify and onboard candidates who excel at customer satisfaction.",
+    "skills_tested": "Development",
+    "duration": "Typically 15-30 minutes",
+    "level": "scores for each candidate",
+    "test_type": "Skills & Simulations",
+    "url": "https://www.shl.com/products/assessments/skills-and-simulations/language-evaluation/"
+  },
+  {
+    "name": "Go Digital and Deliver a Superior Experience",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience. SHL\u2019s end-to-end digital assessment and development centers are the most efficient and accurate way of identifying potential. Our team of 300 people scientists operate in 150 countries, speak over 40 languages, and provide 24-hour support.",
+    "skills_tested": "Development",
+    "duration": "Typically 15-30 minutes",
+    "level": "All Levels",
+    "test_type": "Unknown",
+    "url": "https://www.shl.com/products/assessments/assessment-and-development-centers/"
+  },
+  {
+    "name": "SHL Occupational Personality Questionnaire (OPQ)",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience. Get accurate, Insightful assessments of potential by matching individual working preferences directly to business requirements.",
+    "skills_tested": "Development",
+    "duration": "Typically 15-30 minutes",
+    "level": "managers build leadership skills that boost team engagement and drive business results",
+    "test_type": "Personality Assessment",
+    "url": "https://www.shl.com/products/assessments/personality-assessment/shl-occupational-personality-questionnaire-opq/"
+  },
+  {
+    "name": "SHL Global Skills Assessment",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience. 96 behavioral skills measured in 15 minutes. Objective, consistent skills data you can use from hiring decisions to development conversations to internal mobility.",
+    "skills_tested": "Assessment | Measure 96 Workplace Skills | SHL",
+    "duration": "Typically 15-30 minutes",
+    "level": "All Levels",
+    "test_type": "Behavioral Assessment",
+    "url": "https://www.shl.com/products/assessments/behavioral-assessments/global-skills-assessment-gsa/"
+  },
+  {
+    "name": "Fast, Simple Technical Skill Assessment",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience. SHL technical skills assessments helps you to comprehensively evaluate knowledge of 200+ technical concepts through multiple choice questions. These include Cloud Engineering, Data Engineering, DevOps, Data Science, Machine Learning, and more.",
+    "skills_tested": "Development",
+    "duration": "Typically 15-30 minutes",
+    "level": "All Levels",
+    "test_type": "Skills & Simulations",
+    "url": "https://www.shl.com/products/assessments/skills-and-simulations/technical-skills/"
+  },
+  {
+    "name": "Situational Judgement Tests",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience. Match candidates\u2019 behavioral fit to your roles with a situational judgment test. These tests are typically administered early in the assessment process, they provide candidates with a fully-branded introduction to your business.",
+    "skills_tested": "Development",
+    "duration": "Typically 15-30 minutes",
+    "level": "managers build leadership skills that boost team engagement and drive business results",
+    "test_type": "Behavioral Assessment",
+    "url": "https://www.shl.com/products/assessments/behavioral-assessments/situation-judgement-tests-sjt/"
+  },
+  {
+    "name": "SHL Coding Skills Assessment and Simulations",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience. SHL Coding Simulations help reduce false negatives by 45% and improve hiring signals across programming ability, solution logic, time complexity, and industry-accepted best practices.",
+    "skills_tested": "Assessment | SHL",
+    "duration": "Typically 15-30 minutes",
+    "level": "the playing field for candidates",
+    "test_type": "Skills & Simulations",
+    "url": "https://www.shl.com/products/assessments/skills-and-simulations/coding-simulations/"
+  },
+  {
+    "name": "Business Skills Assessment Tests for Deep Insights",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience. Our world-leading portfolio of business assessment tools engages your candidates with real-world simulations and science-backed questions covering everything from personality and motivation to specific business skills.",
+    "skills_tested": "Assessment Test | Computer Literacy Test | SHL",
+    "duration": "Typically 15-30 minutes",
+    "level": "All Levels",
+    "test_type": "Skills & Simulations",
+    "url": "https://www.shl.com/products/assessments/skills-and-simulations/business-skills/"
+  },
+  {
+    "name": "Universal Competency Framework (UCF)",
+    "description": "If you choose to continue with your current browser we cannot guarantee your experience. Competencies are \u2018sets of behaviors that are instrumental in the delivery of desired results\u2019 (Bartram et al, 2002). In the business context they are behaviors that support the attainment of objectives within the context of that specific organization\u2019s strategy. Competencies are sometimes also called \u2018capabilities\u2019 but irrespective of the term used, the focus is on \u2018behaviors\u2019 not technical knowledge.",
+    "skills_tested": "Development",
+    "duration": "Typically 15-30 minutes",
+    "level": "Our Science team is constantly innovating and pushing the boundaries of what is deemed possible",
+    "test_type": "Behavioral Assessment",
+    "url": "https://www.shl.com/products/assessments/behavioral-assessments/universal-competency-framework/"
+  }
+]
