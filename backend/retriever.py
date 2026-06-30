@@ -24,7 +24,7 @@ class SemanticRetriever:
             return np.zeros(768)
         try:
             response = self.client.models.embed_content(
-                model='text-embedding-004',
+                model='embedding-001',
                 contents=text
             )
             return np.array(response.embeddings[0].values)
